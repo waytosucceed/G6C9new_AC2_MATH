@@ -1,0 +1,147 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Which of the following numbers is a prime number?",
+    "options": ["15", "21", "29", "33"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which of these numbers is a composite number?",
+    "options": ["11", "13", "17", "18"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "What is the smallest composite number?",
+    "options": ["0", "1", "2", "4"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Which of the following pairs are coprime?",
+    "options": ["4 and 6", "5 and 9", "6 and 10", "8 and 12"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Choose the pair that is not coprime.",
+    "options": ["7 and 10", "2 and 3", "4 and 6", "9 and 11"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Which of the following are twin primes?",
+    "options": ["11 and 13", "17 and 23", "3 and 11", "7 and 11"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Which pair is NOT a twin prime?",
+    "options": ["3 and 5", "5 and 7", "17 and 19", "13 and 17"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Complete the factor pairs for the number 24:<br> 24 = 1 × a<br> 24 = 2 × b<br> 24 = 3 × c<br> 24 = 4 × d<br> What are the values of a, b, c, and d?",
+    "options": [
+      "a = 24, b = 14, c = 7, d = 5",
+      "a = 24, b = 12, c = 8, d = 6",
+      "a = 24, b = 10, c = 6, d = 4",
+      "a = 24, b = 13, c = 9, d = 7"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Complete the factor pairs for the number 18:<br> 18 = 1 × a<br> 18 = b × 9<br> 18 = 3 × c<br> What are the values of a, b, and c?",
+    "options": [
+      "a = 18, b = 2, c = 6",
+      "a = 18, b = 10, c = 7",
+      "a = 18, b = 11, c = 8",
+      "a = 18, b = 7, c = 5"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11",
+    "question": "Which number is a factor of both 12 and 20?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12",
+    "question": "Which number is shared as a factor by 6, 18 and 24?",
+    "options": ["5", "3", "9", "8"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13",
+    "question": "What is the greatest number that can divide both 15 and 35 exactly?",
+    "options": ["10", "7", "5", "3"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14",
+    "question": "What is the greatest number that divides 12, 18, and 30 exactly?",
+    "options": ["3", "6", "9", "12"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15",
+    "question": "Give the prime factorisation of 28.<br><img width='55%' src='./question/1.png'>",
+    "options": [
+      "28 = 2 × 2",
+      "28 = 2 × 2 × 4",
+      "28 = 2 × 2 × 7",
+      "28 = 2 × 2 × 4 × 7"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q16",
+    "question": "Which of the following is the correct prime factorisation of 48?",
+    "options": [
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q17",
+    "question": "Find the values of a and b. <br><img width='55%' src='./question/2.png'>",
+    "options": [
+      "a = 2, b = 3",
+      "a = 3, b = 3",
+      "a = 2, b = 2",
+      "a = 3, b = 2"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q18",
+    "question": "Determine the HCF of 20 and 30.<br><img width='70%' src='./question/3.png'>",
+    "options": ["5", "10", "15", "4"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q19",
+    "question": "Find the HCF of 72 and 120 using the prime factorisation method.",
+    "options": ["6", "12", "24", "36"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q20",
+    "question": "What is the greatest common divisor (GCD) of 84 and 126, based on their prime factorizations?",
+    "options": ["14", "21", "28", "42"],
+    "correct": 3
+  }
+]
